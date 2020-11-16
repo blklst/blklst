@@ -1,1 +1,1 @@
-172.217.5.0,172.217.0.0,edge-chat.facebook.com,facebook.com,beta.facebook.com,edge-chat.facebook.com,m.facebook.com
+216.58.192.0/22,216.58.192.0/19,edge-chat.facebook.com,facebook.com,beta.facebook.com,edge-chat.facebook.com,m.facebook.com
